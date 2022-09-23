@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_blocks_image_cards",
+  "info": {
+    "displayName": "Image Card",
+    "icon": "id-card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

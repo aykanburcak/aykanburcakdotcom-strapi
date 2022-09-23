@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blocks_skills",
+  "info": {
+    "displayName": "Skills"
+  },
+  "options": {},
+  "attributes": {
+    "image_card": {
+      "displayName": "Image Card",
+      "type": "component",
+      "repeatable": true,
+      "component": "blocks.image-card"
+    }
+  }
+}
