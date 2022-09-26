@@ -45,7 +45,8 @@
       "components": [
         "blocks.rich-text",
         "blocks.image-card",
-        "blocks.skills"
+        "blocks.skills",
+        "blocks.slider"
       ]
     }
   }

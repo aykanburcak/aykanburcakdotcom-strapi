@@ -2,7 +2,8 @@
   "collectionName": "components_blocks_image_cards",
   "info": {
     "displayName": "Image Card",
-    "icon": "id-card"
+    "icon": "id-card",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -10,17 +11,21 @@
       "type": "string"
     },
     "image": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
-      "type": "media",
-      "multiple": true
+      ]
     },
     "description": {
       "type": "text"
+    },
+    "link": {
+      "type": "string"
     }
   }
 }

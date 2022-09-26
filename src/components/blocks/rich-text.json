@@ -7,7 +7,7 @@
   },
   "options": {},
   "attributes": {
-    "content": {
+    "text_content": {
       "type": "richtext"
     },
     "title": {

@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_global_menus",
+  "info": {
+    "displayName": "Menu",
+    "icon": "hamburger",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    }
+  }
+}
