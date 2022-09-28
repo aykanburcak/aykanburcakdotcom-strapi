@@ -46,7 +46,9 @@
         "blocks.rich-text",
         "blocks.image-card",
         "blocks.skills",
-        "blocks.slider"
+        "blocks.slider",
+        "blocks.posts",
+        "blocks.works"
       ]
     }
   }

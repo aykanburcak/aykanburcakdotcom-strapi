@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_blocks_posts",
+  "info": {
+    "displayName": "Posts",
+    "icon": "sim-card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

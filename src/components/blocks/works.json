@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_blocks_works",
+  "info": {
+    "displayName": "Works",
+    "icon": "network-wired"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
