@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_blocks_page_titles",
+  "info": {
+    "displayName": "Page Title",
+    "icon": "heading"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

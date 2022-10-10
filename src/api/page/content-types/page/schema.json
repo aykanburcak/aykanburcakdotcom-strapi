@@ -48,7 +48,8 @@
         "blocks.skills",
         "blocks.slider",
         "blocks.posts",
-        "blocks.works"
+        "blocks.works",
+        "blocks.page-title"
       ]
     }
   }
