@@ -9,6 +9,15 @@
   "attributes": {
     "title": {
       "type": "string"
+    },
+    "enable_load_more": {
+      "type": "boolean"
+    },
+    "button_link": {
+      "type": "string"
+    },
+    "button_label": {
+      "type": "string"
     }
   }
 }

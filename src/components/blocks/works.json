@@ -2,12 +2,26 @@
   "collectionName": "components_blocks_works",
   "info": {
     "displayName": "Works",
-    "icon": "network-wired"
+    "icon": "network-wired",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "title": {
       "type": "string"
+    },
+    "button_link": {
+      "type": "string"
+    },
+    "button_label": {
+      "type": "string"
+    },
+    "entry_limit": {
+      "type": "integer"
+    },
+    "enable_load_more": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
