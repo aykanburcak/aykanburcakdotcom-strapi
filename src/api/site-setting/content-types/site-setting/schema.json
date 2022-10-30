@@ -28,6 +28,15 @@
     },
     "site_name": {
       "type": "string"
+    },
+    "linkedin": {
+      "type": "string"
+    },
+    "instagram": {
+      "type": "string"
+    },
+    "twitter": {
+      "type": "string"
     }
   }
 }
